@@ -134,8 +134,8 @@ numbernye = '0'
 autoketik = false;
 prefixStatus = true;
 targetpc = "917736622139"; 
-owner = "917025165487"; 
-fakeyoi = "Pepe Sir"; 
+owner = "918281400380"; 
+fakeyoi = "Arya Mwol"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
 hardi = 'hardianto', 
@@ -1649,10 +1649,11 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 			num = await fetchJson(`https://api.telnyx.com/anonymous/v2/number_lookup/${senderNumber}`, {method: 'get'})
        menu = `
 ╭──────────────────╮
-      ✪ɪͥᴛͭsᷤᴍͫᴇͤ☚⃟ᎮᏋᎮᏋ ՏIᖇ
+      ARYA MWOL HERE
+
 ╭──────────────────╯
 │
-│   ʜᴇʏ ᴜsᴇʀ @${sender.split("@")[0]} 
+│    ʜᴇʏ ᴜsᴇʀ @${sender.split("@")[0]} 
 │      ɪᴍ sᴛɪʟʟ ᴀʟɪᴠᴇ ʙʀᴏ😁
 │      
 │
@@ -1670,7 +1671,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 │
 │      ▎▍▌▌▉▏▎▌▉▐▏▌▎
 │      ▎▍▌▌▉▏▎▌▉▐▏▌▎
-│        ©917736622139
+│        ©918281400380
 │
 │  ❑ *ɢɪᴛʜᴜʙ ʟɪɴᴋ* :
 │  https://github.com/pepesir/PEPE-SIR
